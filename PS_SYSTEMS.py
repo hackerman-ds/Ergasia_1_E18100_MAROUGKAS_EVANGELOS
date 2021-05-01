@@ -1,1 +1,1 @@
-MM
+print("hello world");
