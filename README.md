@@ -14,10 +14,18 @@
 Έπειτα, θα πρέπει να περάσετε μέσα τα δεδομένα που υπάρχουν στο αρχείο students.json. ΠΡΟΣΟΧΗ: Θα πρέπει πρώτα να αντιγράψετε τα αρχεία στο container και μετά με τη χρήση της εντολής mongoimport να τα περάσετε σε ένα collection με όνομα Students της ΒΔ InfoSys. 
 
 
+- Τα εργαλεια που χρησιμοποισα και θα χρειστουν για την υλοποίηση της άσκησης είναι:
+- Το docker desktop
+- Το postman
+- Το mongo-shell and mongo compass 
+- Το VScode
 
+ ~ Παρακάτω θα εξηγήσουμε/αναλύσουμε τα 9 endpoint της άσκησης που υπάρχουν εσωτερικά στο αρχείο app.py
+ 
+1) endpoint: 
 
+---------------------------------------------------------------------(ENGLISH-VERSION)---------------------------------------------------------------------------
 
----------------------------------------------------------------------(ENGLISH-VERSION)------------------------------------------------------------------------------------------
 - Working information:
 
 In the Tasks tab, in the task "1st compulsory homework 2021" you will find a zip file containing the app.py file as well as the students.json file.
@@ -34,6 +42,6 @@ Next, you need to enter the data in the students.json file. ATTENTION: You must 
 - 1) docker desktop 
 - 2) postman 
 - 3) mongo-shell and mongo-compass
-- 4)VScode
+- 4) VScode
 
 
