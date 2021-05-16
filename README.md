@@ -46,7 +46,7 @@
 
 
 
---------------------------------------------------------------------(ENGLISH-VERSION)--------------------------------------------------------------------------
+                      -----------------------------(ENGLISH-VERSION)----------------------------
 - Working information:
 
 In the Tasks tab, in the task "1st compulsory homework 2021" you will find a zip file containing the app.py file as well as the students.json file.
