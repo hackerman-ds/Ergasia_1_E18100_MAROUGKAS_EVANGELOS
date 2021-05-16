@@ -4,7 +4,7 @@
 
 Πληροφορίες εργασίας:
 
-Στη καρτέλα εργασίες, στην εργασία «1η υποχρεωτική εργασία 2021» θα βρείτε ένα zip αρχείο που περιέχει μέσα το αρχείο app.py καθώς και το αρχείο students.json.   
+Στη καρτέλα εργασίες θα βρείτε ένα zip αρχείο που περιέχει μέσα το αρχείο app.py καθώς και το αρχείο students.json.   
 Στο αρχείο app.py υπάρχουν 9 συνολικά endpoint τα οποία καλείστε να υλοποιήσετε.
 Για το κάθε endpoint υπάρχει αναλυτική περιγραφή στην συνάρτηση που το υλοποιεί. 
 Η διαδικασία ανάθεσης των δεδομένων που περνάνε στο body του request κάθε φορά έχει ήδη υλοποιηθεί. Τα δεδομένα κάθε φορά περνάνε σε μία μεταβλητή που ονομάζεται data. 
@@ -49,7 +49,7 @@
                       -----------------------------(ENGLISH-VERSION)----------------------------
 - Working information:
 
-In the Tasks tab, in the task "1st compulsory homework 2021" you will find a zip file containing the app.py file as well as the students.json file.
+In the Tasks tab you will find a zip file containing the app.py file as well as the students.json file.
 In the app.py file there are 9 total endpoints which you are called to implement.
 For each endpoint there is a detailed description in the function that implements it.
 The process of assigning the data that passes to the body of the request each time has already been implemented. The data each time passes to a variable called data.
